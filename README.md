@@ -1,7 +1,7 @@
 #Demo
-demo project!
+
+**demo project!**
 
 ## subheader
-
-this is a example
+_myProject_**
 
