@@ -1,13 +1,1 @@
-#Demo
-
-**demo project!**
-
-## subheader
-=======
-# Demo
-**demo project!**
-
-## subheader
-
-_myProject_**
-
+# Building E-Commerce website
