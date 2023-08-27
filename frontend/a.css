@@ -1,0 +1,76 @@
+html{
+    background-color:lightblue;
+}
+h1{
+    border-style:normal;
+    text-decoration:underline;
+    font-family:italic;
+    font-size:4em;
+}
+h2{
+    font-weight:underline;
+    color:white;
+    font-size:3em;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+#para1{
+    font-size: 3px;
+    font-family: "Ink Free";
+}
+#home{
+    font-family:monospace;
+    margin-left:auto;
+    margin-right:auto;
+    align: center;
+    color:brown;
+    font-size:2em;
+
+}
+#health{
+    font-family:monospace;
+    margin-left:auto;
+    margin-right:auto;
+    align:center;
+    color:brown;
+    font-size:2em;
+}
+.deco{
+    border: solid;
+    margin-left:auto;
+    margin-right: auto;
+}
+#fruit{
+    font-family: monospace;
+    font-size: 2em;
+    align: center;
+    color: brown;
+
+}
+/*
+.flesh{
+    margin-left: auto;
+    margin-right: auto;
+    font-family:monospace;
+    font-size: 2em;
+
+
+}
+*/
+    .forn{
+        text-decoration: right;
+    }
+    .end{
+        font-family: sans-serif;
+        text-align: center;
+        font-size: 3em;       
+    }
+    .don{
+        align: "center";
+        font-family: monospace;
+        font-weight: 3em;
+    }
