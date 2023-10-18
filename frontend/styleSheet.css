@@ -1,0 +1,129 @@
+html {
+  background-color: lightblue;
+}
+table{
+  table-layout: fixed;
+  width: 70%;
+}
+td{
+  width: 25%;
+}
+h1 {
+  border-style: normal;
+  text-decoration: underline;
+  font-family: italic;
+  font-size: 4em;
+}
+h2 {
+  font-weight: underline;
+  color: white;
+  font-size: 3em;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#para1 {
+  font-size: 3px;
+  font-family: "Ink Free";
+}
+#home {
+  font-family: monospace;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: brown;
+  font-size: 2em;
+  table-layout: fixed;
+}
+#health {
+  font-family: monospace;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: brown;
+  font-size: 2em;
+}
+.deco {
+  border: solid;
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: auto;
+}
+#fruit {
+  font-family: monospace;
+  font-size: 2em;
+  text-align: center;
+  color: brown;
+}
+/*
+.flesh{
+    margin-left: auto;
+    margin-right: auto;
+    font-family:monospace;
+    font-size: 2em;
+
+
+}
+*/
+.forn {
+  text-decoration: right;
+}
+.end {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 3em;
+}
+.don {
+  text-align: "center";
+  font-family: monospace;
+  font-weight: 3em;
+}
+
+#container {
+  display: block;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.listOrder {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li .navBar {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.inLine:hover {
+  background-color: black;
+  color: red;
+}
+
+#Home:hover{
+  background-color: lightblue;
+  color: white;
+}
+
+#login:hover,#signin:hover{
+  background-color: lightblue;
+  color: white;
+}
+
+#about {
+  float: right;
+  padding-right: 8%;
+}
