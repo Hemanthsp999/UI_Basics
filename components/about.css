@@ -1,0 +1,73 @@
+/* about.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+header {
+  width: 100%;
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+}
+
+#about {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav .back-btn {
+  text-decoration: none;
+  color: white;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+nav .back-btn:hover {
+  background-color: #0056b3;
+}
+
+section {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+}
+
+#Text {
+  font-size: 1.2em;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+  header,
+  nav,
+  section {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  #about {
+    font-size: 2em;
+  }
+
+  #Text {
+    font-size: 1em;
+  }
+}
